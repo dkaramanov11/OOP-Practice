@@ -6,7 +6,7 @@
     <RootNamespace>OOP_Practice</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	<StartupObject>OOP_Practice.Student.CSharp.Program</StartupObject>
+	<StartupObject>OOP_Practice.Employees.CSharp.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
